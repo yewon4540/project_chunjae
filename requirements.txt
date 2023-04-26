@@ -10,6 +10,8 @@ fastparquet
 squarify
 wordcloud
 textblob
+scikit-learn
+boto3
 # eunjeon
 # PyKomoran
 
